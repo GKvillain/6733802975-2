@@ -214,6 +214,8 @@ git push origin main
 
 > ⚠️ **GitHub ไม่รับ password ธรรมดาแล้ว** ต้องใช้ Personal Access Token:  
 > GitHub → Settings → Developer settings → Personal access tokens → Generate new token
+> กรณีถ้า Push ไม่ได้ให้ทำวิธีดังกล่าว แต่หากจะPush ไรก็ให้เช็คProfile ก่อน Push เสมอ
+> ในส่วน commit  X ตาม Section ที่ตัวเองลงเรียน
 
 ---
 
